@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.phylodynamics.model:beast.phylodynamics.epidemiology:beast.phylodynamics.logger:beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" version="2.0">
+
+
+    			<data
+					id="SHC"
+					name="alignment">
+                        <sequence id="seq_s734_CH_10_1997.26" taxon="s734_CH_10_1997.26" totalcount="4" value="??"/>
+                        <sequence id="seq_s384_CH_10_2002.5" taxon="s384_CH_10_2002.5" totalcount="4" value="??"/>
+                        <sequence id="seq_s2041_CH_20_1996.02" taxon="s2041_CH_20_1996.02" totalcount="4" value="??"/>
+                        <sequence id="seq_s68_CH_10_1995.72" taxon="s68_CH_10_1995.72" totalcount="4" value="??"/>
+                        <sequence id="seq_s17_CH_10_1995.83" taxon="s17_CH_10_1995.83" totalcount="4" value="??"/>
+                        <sequence id="seq_s538_CH_10_1996.83" taxon="s538_CH_10_1996.83" totalcount="4" value="??"/>
+                        <sequence id="seq_s2499_CH_30_1999.27" taxon="s2499_CH_30_1999.27" totalcount="4" value="??"/>
+                        <sequence id="seq_s2558_CH_30_1996.86" taxon="s2558_CH_30_1996.86" totalcount="4" value="??"/>
+                        <sequence id="seq_s444_CH_10_1996.12" taxon="s444_CH_10_1996.12" totalcount="4" value="??"/>
+                        <sequence id="seq_s1441_CH_10_2002.57" taxon="s1441_CH_10_2002.57" totalcount="4" value="??"/>
+                        <sequence id="seq_s629_CH_10_1998.15" taxon="s629_CH_10_1998.15" totalcount="4" value="??"/>
+                        <sequence id="seq_s278_CH_10_1996.07" taxon="s278_CH_10_1996.07" totalcount="4" value="??"/>
+                        <sequence id="seq_s2477_CH_30_1995.21" taxon="s2477_CH_30_1995.21" totalcount="4" value="??"/>
+                        <sequence id="seq_s181_CH_10_1996.04" taxon="s181_CH_10_1996.04" totalcount="4" value="??"/>
+                        <sequence id="seq_s335_CH_10_1995.53" taxon="s335_CH_10_1995.53" totalcount="4" value="??"/>
+                        <sequence id="seq_s459_CH_10_1996.63" taxon="s459_CH_10_1996.63" totalcount="4" value="??"/>
+                        <sequence id="seq_s1728_CH_10_2008.58" taxon="s1728_CH_10_2008.58" totalcount="4" value="??"/>
+                        <sequence id="seq_s1773_CH_10_2009.03" taxon="s1773_CH_10_2009.03" totalcount="4" value="??"/>
+                        <sequence id="seq_s2457_CH_30_1998.07" taxon="s2457_CH_30_1998.07" totalcount="4" value="??"/>
+                        <sequence id="seq_s800_CH_10_2002.12" taxon="s800_CH_10_2002.12" totalcount="4" value="??"/>
+                        <sequence id="seq_s365_CH_10_1997.14" taxon="s365_CH_10_1997.14" totalcount="4" value="??"/>
+                        <sequence id="seq_s519_CH_10_1996.22" taxon="s519_CH_10_1996.22" totalcount="4" value="??"/>
+                        <sequence id="seq_s460_CH_10_2002.91" taxon="s460_CH_10_2002.91" totalcount="4" value="??"/>
+                        <sequence id="seq_s560_CH_10_2006.04" taxon="s560_CH_10_2006.04" totalcount="4" value="??"/>
+                        <sequence id="seq_s221_CH_10_1996.41" taxon="s221_CH_10_1996.41" totalcount="4" value="??"/>
+                        <sequence id="seq_s707_CH_10_2000.2" taxon="s707_CH_10_2000.2" totalcount="4" value="??"/>
+                        <sequence id="seq_s252_CH_10_1996.03" taxon="s252_CH_10_1996.03" totalcount="4" value="??"/>
+                        <sequence id="seq_s1424_CH_10_2004.23" taxon="s1424_CH_10_2004.23" totalcount="4" value="??"/>
+                        <sequence id="seq_s2690_CH_30_2005.66" taxon="s2690_CH_30_2005.66" totalcount="4" value="??"/>
+                        <sequence id="seq_s2718_CH_30_2007.42" taxon="s2718_CH_30_2007.42" totalcount="4" value="??"/>
+                        <sequence id="seq_s550_CH_10_1998.42" taxon="s550_CH_10_1998.42" totalcount="4" value="??"/>
+                        <sequence id="seq_s1547_CH_10_2005.84" taxon="s1547_CH_10_2005.84" totalcount="4" value="??"/>
+                        <sequence id="seq_s1569_CH_10_2005.57" taxon="s1569_CH_10_2005.57" totalcount="4" value="??"/>
+                        <sequence id="seq_s1470_CH_10_2004.32" taxon="s1470_CH_10_2004.32" totalcount="4" value="??"/>
+                        <sequence id="seq_s1052_CH_10_2007.93" taxon="s1052_CH_10_2007.93" totalcount="4" value="??"/>
+                        <sequence id="seq_s1122_CH_10_2007.9" taxon="s1122_CH_10_2007.9" totalcount="4" value="??"/>
+                        <sequence id="seq_s1311_CH_10_2005.38" taxon="s1311_CH_10_2005.38" totalcount="4" value="??"/>
+                        <sequence id="seq_s893_CH_10_2004.31" taxon="s893_CH_10_2004.31" totalcount="4" value="??"/>
+                        <sequence id="seq_s758_CH_10_2006.07" taxon="s758_CH_10_2006.07" totalcount="4" value="??"/>
+                        <sequence id="seq_s1870_CH_10_2009.97" taxon="s1870_CH_10_2009.97" totalcount="4" value="??"/>
+                        <sequence id="seq_s1755_CH_10_2008.94" taxon="s1755_CH_10_2008.94" totalcount="4" value="??"/>
+                        <sequence id="seq_s4320_CH_10_2012.16" taxon="s4320_CH_10_2012.16" totalcount="4" value="??"/>
+                        <sequence id="seq_s4321_CH_10_2012.19" taxon="s4321_CH_10_2012.19" totalcount="4" value="??"/>
+                        <sequence id="seq_s358_CH_10_2005.58" taxon="s358_CH_10_2005.58" totalcount="4" value="??"/>
+                        <sequence id="seq_s1791_CH_10_2008.88" taxon="s1791_CH_10_2008.88" totalcount="4" value="??"/>
+                        <sequence id="seq_s136_CH_10_1997.02" taxon="s136_CH_10_1997.02" totalcount="4" value="??"/>
+                        <sequence id="seq_s654_CH_10_1998.42" taxon="s654_CH_10_1998.42" totalcount="4" value="??"/>
+                        <sequence id="seq_s4354_CH_10_2013.9" taxon="s4354_CH_10_2013.9" totalcount="4" value="??"/>
+                        <sequence id="seq_s474_CH_10_1995.6" taxon="s474_CH_10_1995.6" totalcount="4" value="??"/>
+                        <sequence id="seq_s408_CH_10_1995.68" taxon="s408_CH_10_1995.68" totalcount="4" value="??"/>
+                        <sequence id="seq_s1254_CH_10_1999.82" taxon="s1254_CH_10_1999.82" totalcount="4" value="??"/>
+                        <sequence id="seq_s1505_CH_10_2004.87" taxon="s1505_CH_10_2004.87" totalcount="4" value="??"/>
+                        <sequence id="seq_s1253_CH_10_1999.8" taxon="s1253_CH_10_1999.8" totalcount="4" value="??"/>
+                        <sequence id="seq_s1404_CH_10_2002.35" taxon="s1404_CH_10_2002.35" totalcount="4" value="??"/>
+                        <sequence id="seq_s551_CH_10_1997.61" taxon="s551_CH_10_1997.61" totalcount="4" value="??"/>
+                        <sequence id="seq_s144_CH_10_1996.02" taxon="s144_CH_10_1996.02" totalcount="4" value="??"/>
+                        <sequence id="seq_s103_CH_10_1996.16" taxon="s103_CH_10_1996.16" totalcount="4" value="??"/>
+                        <sequence id="seq_s208_CH_10_1996.5" taxon="s208_CH_10_1996.5" totalcount="4" value="??"/>
+                        <sequence id="seq_s154_CH_10_2000.41" taxon="s154_CH_10_2000.41" totalcount="4" value="??"/>
+                        <sequence id="seq_s342_CH_10_1996.56" taxon="s342_CH_10_1996.56" totalcount="4" value="??"/>
+                        <sequence id="seq_s249_CH_10_2005.2" taxon="s249_CH_10_2005.2" totalcount="4" value="??"/>
+                        <sequence id="seq_s2512_CH_30_1994.92" taxon="s2512_CH_30_1994.92" totalcount="4" value="??"/>
+                        <sequence id="seq_s2789_CH_30_2011.91" taxon="s2789_CH_30_2011.91" totalcount="4" value="??"/>
+                        <sequence id="seq_s38_CH_10_1996.81" taxon="s38_CH_10_1996.81" totalcount="4" value="??"/>
+                        <sequence id="seq_s749_CH_10_1997.92" taxon="s749_CH_10_1997.92" totalcount="4" value="??"/>
+                        <sequence id="seq_s297_CH_10_1995.79" taxon="s297_CH_10_1995.79" totalcount="4" value="??"/>
+                        <sequence id="seq_s2566_CH_30_2003.09" taxon="s2566_CH_30_2003.09" totalcount="4" value="??"/>
+                        <sequence id="seq_s775_CH_10_2004.07" taxon="s775_CH_10_2004.07" totalcount="4" value="??"/>
+                        <sequence id="seq_s1379_CH_10_2002.65" taxon="s1379_CH_10_2002.65" totalcount="4" value="??"/>
+                        <sequence id="seq_s1771_CH_10_2007.62" taxon="s1771_CH_10_2007.62" totalcount="4" value="??"/>
+                        <sequence id="seq_s4269_CH_10_2010.64" taxon="s4269_CH_10_2010.64" totalcount="4" value="??"/>
+                        <sequence id="seq_s703_CH_10_1999.84" taxon="s703_CH_10_1999.84" totalcount="4" value="??"/>
+                        <sequence id="seq_s1321_CH_10_2001.2" taxon="s1321_CH_10_2001.2" totalcount="4" value="??"/>
+                        <sequence id="seq_s1343_CH_10_2000.87" taxon="s1343_CH_10_2000.87" totalcount="4" value="??"/>
+                        <sequence id="seq_s1227_CH_10_1998.65" taxon="s1227_CH_10_1998.65" totalcount="4" value="??"/>
+                        <sequence id="seq_s510_CH_10_1996.03" taxon="s510_CH_10_1996.03" totalcount="4" value="??"/>
+                        <sequence id="seq_s222_CH_10_1997.79" taxon="s222_CH_10_1997.79" totalcount="4" value="??"/>
+                        <sequence id="seq_s316_CH_10_1995.61" taxon="s316_CH_10_1995.61" totalcount="4" value="??"/>
+                        <sequence id="seq_s394_CH_10_1995.51" taxon="s394_CH_10_1995.51" totalcount="4" value="??"/>
+                        <sequence id="seq_s2534_CH_30_1996.33" taxon="s2534_CH_30_1996.33" totalcount="4" value="??"/>
+                        <sequence id="seq_s2524_CH_30_1994.92" taxon="s2524_CH_30_1994.92" totalcount="4" value="??"/>
+                        <sequence id="seq_s2490_CH_30_1996.5" taxon="s2490_CH_30_1996.5" totalcount="4" value="??"/>
+                        <sequence id="seq_s107_CH_10_1995.85" taxon="s107_CH_10_1995.85" totalcount="4" value="??"/>
+                        <sequence id="seq_s359_CH_10_1996.89" taxon="s359_CH_10_1996.89" totalcount="4" value="??"/>
+                        <sequence id="seq_s110_CH_10_1997.59" taxon="s110_CH_10_1997.59" totalcount="4" value="??"/>
+                        <sequence id="seq_s544_CH_10_1997.21" taxon="s544_CH_10_1997.21" totalcount="4" value="??"/>
+                        <sequence id="seq_s426_CH_10_1996.21" taxon="s426_CH_10_1996.21" totalcount="4" value="??"/>
+                        <sequence id="seq_s973_CH_10_2006.62" taxon="s973_CH_10_2006.62" totalcount="4" value="??"/>
+                        <sequence id="seq_s1585_CH_10_2007.23" taxon="s1585_CH_10_2007.23" totalcount="4" value="??"/>
+                        <sequence id="seq_s245_CH_10_1998.2" taxon="s245_CH_10_1998.2" totalcount="4" value="??"/>
+                        <sequence id="seq_s2567_CH_30_1996.28" taxon="s2567_CH_30_1996.28" totalcount="4" value="??"/>
+                        <sequence id="seq_s2475_CH_30_1995.1" taxon="s2475_CH_30_1995.1" totalcount="4" value="??"/>
+                        <sequence id="seq_s2575_CH_30_1996.83" taxon="s2575_CH_30_1996.83" totalcount="4" value="??"/>
+                        <sequence id="seq_s2531_CH_30_1997.81" taxon="s2531_CH_30_1997.81" totalcount="4" value="??"/>
+                        <sequence id="seq_s2481_CH_30_1996.16" taxon="s2481_CH_30_1996.16" totalcount="4" value="??"/>
+                        <sequence id="seq_s2179_CH_20_2003.32" taxon="s2179_CH_20_2003.32" totalcount="4" value="??"/>
+                        <sequence id="seq_s2574_CH_30_1998.72" taxon="s2574_CH_30_1998.72" totalcount="4" value="??"/>
+                        <sequence id="seq_s2474_CH_30_1996.23" taxon="s2474_CH_30_1996.23" totalcount="4" value="??"/>
+                        <sequence id="seq_s2218_CH_20_2004.47" taxon="s2218_CH_20_2004.47" totalcount="4" value="??"/>
+                        <sequence id="seq_s2217_CH_20_2009.13" taxon="s2217_CH_20_2009.13" totalcount="4" value="??"/>
+                        <sequence id="seq_s2509_CH_30_1994.93" taxon="s2509_CH_30_1994.93" totalcount="4" value="??"/>
+                        <sequence id="seq_s2590_CH_30_1997.95" taxon="s2590_CH_30_1997.95" totalcount="4" value="??"/>
+                        <sequence id="seq_s2602_CH_30_1998.3" taxon="s2602_CH_30_1998.3" totalcount="4" value="??"/>
+                        <sequence id="seq_s2199_CH_20_2004.78" taxon="s2199_CH_20_2004.78" totalcount="4" value="??"/>
+                        <sequence id="seq_s2671_CH_30_2004.65" taxon="s2671_CH_30_2004.65" totalcount="4" value="??"/>
+                        <sequence id="seq_s227_CH_10_1996.12" taxon="s227_CH_10_1996.12" totalcount="4" value="??"/>
+                        <sequence id="seq_s1763_CH_10_2003.68" taxon="s1763_CH_10_2003.68" totalcount="4" value="??"/>
+                        <sequence id="seq_s479_CH_10_1995.92" taxon="s479_CH_10_1995.92" totalcount="4" value="??"/>
+                        <sequence id="seq_s832_CH_10_2006.75" taxon="s832_CH_10_2006.75" totalcount="4" value="??"/>
+                        <sequence id="seq_s711_CH_10_2000.43" taxon="s711_CH_10_2000.43" totalcount="4" value="??"/>
+                        <sequence id="seq_s2291_CH_20_2005.37" taxon="s2291_CH_20_2005.37" totalcount="4" value="??"/>
+                        <sequence id="seq_s1292_CH_10_2006.1" taxon="s1292_CH_10_2006.1" totalcount="4" value="??"/>
+                        <sequence id="seq_s1148_CH_10_2009.42" taxon="s1148_CH_10_2009.42" totalcount="4" value="??"/>
+                        <sequence id="seq_s2137_CH_20_1995.78" taxon="s2137_CH_20_1995.78" totalcount="4" value="??"/>
+                        <sequence id="seq_s345_CH_10_2001.35" taxon="s345_CH_10_2001.35" totalcount="4" value="??"/>
+                        <sequence id="seq_s2190_CH_20_1997.5" taxon="s2190_CH_20_1997.5" totalcount="4" value="??"/>
+                        <sequence id="seq_s2487_CH_30_2010.38" taxon="s2487_CH_30_2010.38" totalcount="4" value="??"/>
+                        <sequence id="seq_s1713_CH_10_2008.37" taxon="s1713_CH_10_2008.37" totalcount="4" value="??"/>
+                        <sequence id="seq_s1027_CH_10_2006.81" taxon="s1027_CH_10_2006.81" totalcount="4" value="??"/>
+                        <sequence id="seq_s1970_CH_10_2011.51" taxon="s1970_CH_10_2011.51" totalcount="4" value="??"/>
+                        <sequence id="seq_s1306_CH_10_2005.03" taxon="s1306_CH_10_2005.03" totalcount="4" value="??"/>
+                        <sequence id="seq_s1768_CH_10_2009.36" taxon="s1768_CH_10_2009.36" totalcount="4" value="??"/>
+                        <sequence id="seq_s1793_CH_10_2009.33" taxon="s1793_CH_10_2009.33" totalcount="4" value="??"/>
+                        <sequence id="seq_s1461_CH_10_2003.95" taxon="s1461_CH_10_2003.95" totalcount="4" value="??"/>
+                        <sequence id="seq_s1597_CH_10_2007.46" taxon="s1597_CH_10_2007.46" totalcount="4" value="??"/>
+                        <sequence id="seq_s4328_CH_10_2011.78" taxon="s4328_CH_10_2011.78" totalcount="4" value="??"/>
+                        <sequence id="seq_s2456_CH_30_1996.17" taxon="s2456_CH_30_1996.17" totalcount="4" value="??"/>
+                        <sequence id="seq_s2047_CH_20_1995.96" taxon="s2047_CH_20_1995.96" totalcount="4" value="??"/>
+                        <sequence id="seq_s467_CH_10_1996.52" taxon="s467_CH_10_1996.52" totalcount="4" value="??"/>
+                        <sequence id="seq_s2099_CH_20_1996.01" taxon="s2099_CH_20_1996.01" totalcount="4" value="??"/>
+                        <sequence id="seq_s2043_CH_20_1995.72" taxon="s2043_CH_20_1995.72" totalcount="4" value="??"/>
+                        <sequence id="seq_s2163_CH_20_1997.3" taxon="s2163_CH_20_1997.3" totalcount="4" value="??"/>
+                        <sequence id="seq_s634_CH_10_2001.91" taxon="s634_CH_10_2001.91" totalcount="4" value="??"/>
+                        <sequence id="seq_s2261_CH_20_2004.61" taxon="s2261_CH_20_2004.61" totalcount="4" value="??"/>
+                        <sequence id="seq_s2386_CH_20_2007.21" taxon="s2386_CH_20_2007.21" totalcount="4" value="??"/>
+                        <sequence id="seq_s1160_CH_10_2009.76" taxon="s1160_CH_10_2009.76" totalcount="4" value="??"/>
+                        <sequence id="seq_s1133_CH_10_2010.45" taxon="s1133_CH_10_2010.45" totalcount="4" value="??"/>
+                        <sequence id="seq_s1849_CH_10_2010.4" taxon="s1849_CH_10_2010.4" totalcount="4" value="??"/>
+                        <sequence id="seq_s1651_CH_10_2007.84" taxon="s1651_CH_10_2007.84" totalcount="4" value="??"/>
+                        <sequence id="seq_s1502_CH_10_2004.67" taxon="s1502_CH_10_2004.67" totalcount="4" value="??"/>
+                        <sequence id="seq_s1736_CH_10_2008.69" taxon="s1736_CH_10_2008.69" totalcount="4" value="??"/>
+                        <sequence id="seq_s1556_CH_10_2006.34" taxon="s1556_CH_10_2006.34" totalcount="4" value="??"/>
+                        <sequence id="seq_s1843_CH_10_2010.19" taxon="s1843_CH_10_2010.19" totalcount="4" value="??"/>
+                        <sequence id="seq_s1155_CH_10_2009.65" taxon="s1155_CH_10_2009.65" totalcount="4" value="??"/>
+                        <sequence id="seq_s1023_CH_10_2006.68" taxon="s1023_CH_10_2006.68" totalcount="4" value="??"/>
+                        <sequence id="seq_s1543_CH_10_2005.79" taxon="s1543_CH_10_2005.79" totalcount="4" value="??"/>
+                        <sequence id="seq_s4360_CH_10_2009.82" taxon="s4360_CH_10_2009.82" totalcount="4" value="??"/>
+                        <sequence id="seq_s2096_CH_20_1999.32" taxon="s2096_CH_20_1999.32" totalcount="4" value="??"/>
+                        <sequence id="seq_s2181_CH_20_1997.36" taxon="s2181_CH_20_1997.36" totalcount="4" value="??"/>
+                        <sequence id="seq_s2613_CH_30_1999.16" taxon="s2613_CH_30_1999.16" totalcount="4" value="??"/>
+                        <sequence id="seq_s2253_CH_20_2004.3" taxon="s2253_CH_20_2004.3" totalcount="4" value="??"/>
+                        <sequence id="seq_s2168_CH_20_1997.1" taxon="s2168_CH_20_1997.1" totalcount="4" value="??"/>
+                        <sequence id="seq_s86_CH_10_1997.41" taxon="s86_CH_10_1997.41" totalcount="4" value="??"/>
+                        <sequence id="seq_s2056_CH_20_1998.42" taxon="s2056_CH_20_1998.42" totalcount="4" value="??"/>
+                        <sequence id="seq_s2194_CH_20_1999.41" taxon="s2194_CH_20_1999.41" totalcount="4" value="??"/>
+                        <sequence id="seq_s3_CH_10_1995.78" taxon="s3_CH_10_1995.78" totalcount="4" value="??"/>
+                        <sequence id="seq_s717_CH_10_1998.87" taxon="s717_CH_10_1998.87" totalcount="4" value="??"/>
+                        <sequence id="seq_s80_CH_10_1995.95" taxon="s80_CH_10_1995.95" totalcount="4" value="??"/>
+                        <sequence id="seq_s209_CH_10_2003.86" taxon="s209_CH_10_2003.86" totalcount="4" value="??"/>
+                        <sequence id="seq_s2113_CH_20_2001.56" taxon="s2113_CH_20_2001.56" totalcount="4" value="??"/>
+                        <sequence id="seq_s2270_CH_20_2005.08" taxon="s2270_CH_20_2005.08" totalcount="4" value="??"/>
+                        <sequence id="seq_s2136_CH_20_1995.61" taxon="s2136_CH_20_1995.61" totalcount="4" value="??"/>
+                        <sequence id="seq_s2151_CH_20_1997.25" taxon="s2151_CH_20_1997.25" totalcount="4" value="??"/>
+                        <sequence id="seq_s244_CH_10_1996.64" taxon="s244_CH_10_1996.64" totalcount="4" value="??"/>
+                        <sequence id="seq_s463_CH_10_1995.9" taxon="s463_CH_10_1995.9" totalcount="4" value="??"/>
+                        <sequence id="seq_s2081_CH_20_1995.22" taxon="s2081_CH_20_1995.22" totalcount="4" value="??"/>
+                        <sequence id="seq_s2080_CH_20_1996.24" taxon="s2080_CH_20_1996.24" totalcount="4" value="??"/>
+                        <sequence id="seq_s2101_CH_20_1997.04" taxon="s2101_CH_20_1997.04" totalcount="4" value="??"/>
+                        <sequence id="seq_s2073_CH_20_1997.25" taxon="s2073_CH_20_1997.25" totalcount="4" value="??"/>
+                        <sequence id="seq_s1683_CH_10_2007.36" taxon="s1683_CH_10_2007.36" totalcount="4" value="??"/>
+                        <sequence id="seq_s2106_CH_20_1996.01" taxon="s2106_CH_20_1996.01" totalcount="4" value="??"/>
+                        <sequence id="seq_s2107_CH_20_1995.83" taxon="s2107_CH_20_1995.83" totalcount="4" value="??"/>
+                        <sequence id="seq_s2049_CH_20_1997.71" taxon="s2049_CH_20_1997.71" totalcount="4" value="??"/>
+                        <sequence id="seq_s1167_CH_10_2009.16" taxon="s1167_CH_10_2009.16" totalcount="4" value="??"/>
+                        <sequence id="seq_s2174_CH_20_1997.27" taxon="s2174_CH_20_1997.27" totalcount="4" value="??"/>
+                        <sequence id="seq_s430_CH_10_1995.95" taxon="s430_CH_10_1995.95" totalcount="4" value="??"/>
+                        <sequence id="seq_s730_CH_10_2002.02" taxon="s730_CH_10_2002.02" totalcount="4" value="??"/>
+                        <sequence id="seq_s1495_CH_10_2004.19" taxon="s1495_CH_10_2004.19" totalcount="4" value="??"/>
+                        <sequence id="seq_s728_CH_10_2000.08" taxon="s728_CH_10_2000.08" totalcount="4" value="??"/>
+                        <sequence id="seq_s2208_CH_20_2000.09" taxon="s2208_CH_20_2000.09" totalcount="4" value="??"/>
+                        <sequence id="seq_s2159_CH_20_1996.85" taxon="s2159_CH_20_1996.85" totalcount="4" value="??"/>
+                        <sequence id="seq_s4418_CH_10_2013.56" taxon="s4418_CH_10_2013.56" totalcount="4" value="??"/>
+                        <sequence id="seq_s379_CH_10_1996.44" taxon="s379_CH_10_1996.44" totalcount="4" value="??"/>
+                        <sequence id="seq_s665_CH_10_1999.01" taxon="s665_CH_10_1999.01" totalcount="4" value="??"/>
+                        <sequence id="seq_s968_CH_10_2007.1" taxon="s968_CH_10_2007.1" totalcount="4" value="??"/>
+                        <sequence id="seq_s1486_CH_10_2004.11" taxon="s1486_CH_10_2004.11" totalcount="4" value="??"/>
+                        <sequence id="seq_s366_CH_10_1996.22" taxon="s366_CH_10_1996.22" totalcount="4" value="??"/>
+                        <sequence id="seq_s860_CH_10_2002.3" taxon="s860_CH_10_2002.3" totalcount="4" value="??"/>
+                        <sequence id="seq_s780_CH_10_2000.55" taxon="s780_CH_10_2000.55" totalcount="4" value="??"/>
+                        <sequence id="seq_s165_CH_10_2011.3" taxon="s165_CH_10_2011.3" totalcount="4" value="??"/>
+                        <sequence id="seq_s67_CH_10_1998.63" taxon="s67_CH_10_1998.63" totalcount="4" value="??"/>
+                        <sequence id="seq_s2458_CH_30_1994.97" taxon="s2458_CH_30_1994.97" totalcount="4" value="??"/>
+                        <sequence id="seq_s184_CH_10_2005.93" taxon="s184_CH_10_2005.93" totalcount="4" value="??"/>
+                        <sequence id="seq_s2579_CH_30_1998.38" taxon="s2579_CH_30_1998.38" totalcount="4" value="??"/>
+                        <sequence id="seq_s2525_CH_30_2002.92" taxon="s2525_CH_30_2002.92" totalcount="4" value="??"/>
+                        <sequence id="seq_s617_CH_10_1997.46" taxon="s617_CH_10_1997.46" totalcount="4" value="??"/>
+                        <sequence id="seq_s2156_CH_20_1996.75" taxon="s2156_CH_20_1996.75" totalcount="4" value="??"/>
+                        <sequence id="seq_s361_CH_10_1997.05" taxon="s361_CH_10_1997.05" totalcount="4" value="??"/>
+                        <sequence id="seq_s2055_CH_20_1997.27" taxon="s2055_CH_20_1997.27" totalcount="4" value="??"/>
+                        <sequence id="seq_s2197_CH_20_1999.52" taxon="s2197_CH_20_1999.52" totalcount="4" value="??"/>
+                    </data>
+
+
+<map name="Beta">beast.math.distributions.Beta</map>
+<map name="Exponential">beast.math.distributions.Exponential</map>
+<map name="InverseGamma">beast.math.distributions.InverseGamma</map>
+<map name="LogNormal">beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Gamma">beast.math.distributions.Gamma</map>
+<map name="Uniform">beast.math.distributions.Uniform</map>
+<map name="prior">beast.math.distributions.Prior</map>
+<map name="LaplaceDistribution">beast.math.distributions.LaplaceDistribution</map>
+<map name="OneOnX">beast.math.distributions.OneOnX</map>
+<map name="Normal">beast.math.distributions.Normal</map>
+
+
+<run chainLength="250000" id="mcmc" spec="MCMC">
+    <state id="state" storeEvery="1000">
+        <tree id="Tree.t:SHC" name="stateNode">
+  		<trait id="dateTrait.t:SHC" spec="beast.evolution.tree.TraitSet" traitname="date">
+                s734_CH_10_1997.26=1997.26,
+				s384_CH_10_2002.5=2002.5,
+				s2041_CH_20_1996.02=1996.02,
+				s68_CH_10_1995.72=1995.72,
+				s17_CH_10_1995.83=1995.83,
+				s538_CH_10_1996.83=1996.83,
+				s2499_CH_30_1999.27=1999.27,
+				s2558_CH_30_1996.86=1996.86,
+				s444_CH_10_1996.12=1996.12,
+				s1441_CH_10_2002.57=2002.57,
+				s629_CH_10_1998.15=1998.15,
+				s278_CH_10_1996.07=1996.07,
+				s2477_CH_30_1995.21=1995.21,
+				s181_CH_10_1996.04=1996.04,
+				s335_CH_10_1995.53=1995.53,
+				s459_CH_10_1996.63=1996.63,
+				s1728_CH_10_2008.58=2008.58,
+				s1773_CH_10_2009.03=2009.03,
+				s2457_CH_30_1998.07=1998.07,
+				s800_CH_10_2002.12=2002.12,
+				s365_CH_10_1997.14=1997.14,
+				s519_CH_10_1996.22=1996.22,
+				s460_CH_10_2002.91=2002.91,
+				s560_CH_10_2006.04=2006.04,
+				s221_CH_10_1996.41=1996.41,
+				s707_CH_10_2000.2=2000.2,
+				s252_CH_10_1996.03=1996.03,
+				s1424_CH_10_2004.23=2004.23,
+				s2690_CH_30_2005.66=2005.66,
+				s2718_CH_30_2007.42=2007.42,
+				s550_CH_10_1998.42=1998.42,
+				s1547_CH_10_2005.84=2005.84,
+				s1569_CH_10_2005.57=2005.57,
+				s1470_CH_10_2004.32=2004.32,
+				s1052_CH_10_2007.93=2007.93,
+				s1122_CH_10_2007.9=2007.9,
+				s1311_CH_10_2005.38=2005.38,
+				s893_CH_10_2004.31=2004.31,
+				s758_CH_10_2006.07=2006.07,
+				s1870_CH_10_2009.97=2009.97,
+				s1755_CH_10_2008.94=2008.94,
+				s4320_CH_10_2012.16=2012.16,
+				s4321_CH_10_2012.19=2012.19,
+				s358_CH_10_2005.58=2005.58,
+				s1791_CH_10_2008.88=2008.88,
+				s136_CH_10_1997.02=1997.02,
+				s654_CH_10_1998.42=1998.42,
+				s4354_CH_10_2013.9=2013.9,
+				s474_CH_10_1995.6=1995.6,
+				s408_CH_10_1995.68=1995.68,
+				s1254_CH_10_1999.82=1999.82,
+				s1505_CH_10_2004.87=2004.87,
+				s1253_CH_10_1999.8=1999.8,
+				s1404_CH_10_2002.35=2002.35,
+				s551_CH_10_1997.61=1997.61,
+				s144_CH_10_1996.02=1996.02,
+				s103_CH_10_1996.16=1996.16,
+				s208_CH_10_1996.5=1996.5,
+				s154_CH_10_2000.41=2000.41,
+				s342_CH_10_1996.56=1996.56,
+				s249_CH_10_2005.2=2005.2,
+				s2512_CH_30_1994.92=1994.92,
+				s2789_CH_30_2011.91=2011.91,
+				s38_CH_10_1996.81=1996.81,
+				s749_CH_10_1997.92=1997.92,
+				s297_CH_10_1995.79=1995.79,
+				s2566_CH_30_2003.09=2003.09,
+				s775_CH_10_2004.07=2004.07,
+				s1379_CH_10_2002.65=2002.65,
+				s1771_CH_10_2007.62=2007.62,
+				s4269_CH_10_2010.64=2010.64,
+				s703_CH_10_1999.84=1999.84,
+				s1321_CH_10_2001.2=2001.2,
+				s1343_CH_10_2000.87=2000.87,
+				s1227_CH_10_1998.65=1998.65,
+				s510_CH_10_1996.03=1996.03,
+				s222_CH_10_1997.79=1997.79,
+				s316_CH_10_1995.61=1995.61,
+				s394_CH_10_1995.51=1995.51,
+				s2534_CH_30_1996.33=1996.33,
+				s2524_CH_30_1994.92=1994.92,
+				s2490_CH_30_1996.5=1996.5,
+				s107_CH_10_1995.85=1995.85,
+				s359_CH_10_1996.89=1996.89,
+				s110_CH_10_1997.59=1997.59,
+				s544_CH_10_1997.21=1997.21,
+				s426_CH_10_1996.21=1996.21,
+				s973_CH_10_2006.62=2006.62,
+				s1585_CH_10_2007.23=2007.23,
+				s245_CH_10_1998.2=1998.2,
+				s2567_CH_30_1996.28=1996.28,
+				s2475_CH_30_1995.1=1995.1,
+				s2575_CH_30_1996.83=1996.83,
+				s2531_CH_30_1997.81=1997.81,
+				s2481_CH_30_1996.16=1996.16,
+				s2179_CH_20_2003.32=2003.32,
+				s2574_CH_30_1998.72=1998.72,
+				s2474_CH_30_1996.23=1996.23,
+				s2218_CH_20_2004.47=2004.47,
+				s2217_CH_20_2009.13=2009.13,
+				s2509_CH_30_1994.93=1994.93,
+				s2590_CH_30_1997.95=1997.95,
+				s2602_CH_30_1998.3=1998.3,
+				s2199_CH_20_2004.78=2004.78,
+				s2671_CH_30_2004.65=2004.65,
+				s227_CH_10_1996.12=1996.12,
+				s1763_CH_10_2003.68=2003.68,
+				s479_CH_10_1995.92=1995.92,
+				s832_CH_10_2006.75=2006.75,
+				s711_CH_10_2000.43=2000.43,
+				s2291_CH_20_2005.37=2005.37,
+				s1292_CH_10_2006.1=2006.1,
+				s1148_CH_10_2009.42=2009.42,
+				s2137_CH_20_1995.78=1995.78,
+				s345_CH_10_2001.35=2001.35,
+				s2190_CH_20_1997.5=1997.5,
+				s2487_CH_30_2010.38=2010.38,
+				s1713_CH_10_2008.37=2008.37,
+				s1027_CH_10_2006.81=2006.81,
+				s1970_CH_10_2011.51=2011.51,
+				s1306_CH_10_2005.03=2005.03,
+				s1768_CH_10_2009.36=2009.36,
+				s1793_CH_10_2009.33=2009.33,
+				s1461_CH_10_2003.95=2003.95,
+				s1597_CH_10_2007.46=2007.46,
+				s4328_CH_10_2011.78=2011.78,
+				s2456_CH_30_1996.17=1996.17,
+				s2047_CH_20_1995.96=1995.96,
+				s467_CH_10_1996.52=1996.52,
+				s2099_CH_20_1996.01=1996.01,
+				s2043_CH_20_1995.72=1995.72,
+				s2163_CH_20_1997.3=1997.3,
+				s634_CH_10_2001.91=2001.91,
+				s2261_CH_20_2004.61=2004.61,
+				s2386_CH_20_2007.21=2007.21,
+				s1160_CH_10_2009.76=2009.76,
+				s1133_CH_10_2010.45=2010.45,
+				s1849_CH_10_2010.4=2010.4,
+				s1651_CH_10_2007.84=2007.84,
+				s1502_CH_10_2004.67=2004.67,
+				s1736_CH_10_2008.69=2008.69,
+				s1556_CH_10_2006.34=2006.34,
+				s1843_CH_10_2010.19=2010.19,
+				s1155_CH_10_2009.65=2009.65,
+				s1023_CH_10_2006.68=2006.68,
+				s1543_CH_10_2005.79=2005.79,
+				s4360_CH_10_2009.82=2009.82,
+				s2096_CH_20_1999.32=1999.32,
+				s2181_CH_20_1997.36=1997.36,
+				s2613_CH_30_1999.16=1999.16,
+				s2253_CH_20_2004.3=2004.3,
+				s2168_CH_20_1997.1=1997.1,
+				s86_CH_10_1997.41=1997.41,
+				s2056_CH_20_1998.42=1998.42,
+				s2194_CH_20_1999.41=1999.41,
+				s3_CH_10_1995.78=1995.78,
+				s717_CH_10_1998.87=1998.87,
+				s80_CH_10_1995.95=1995.95,
+				s209_CH_10_2003.86=2003.86,
+				s2113_CH_20_2001.56=2001.56,
+				s2270_CH_20_2005.08=2005.08,
+				s2136_CH_20_1995.61=1995.61,
+				s2151_CH_20_1997.25=1997.25,
+				s244_CH_10_1996.64=1996.64,
+				s463_CH_10_1995.9=1995.9,
+				s2081_CH_20_1995.22=1995.22,
+				s2080_CH_20_1996.24=1996.24,
+				s2101_CH_20_1997.04=1997.04,
+				s2073_CH_20_1997.25=1997.25,
+				s1683_CH_10_2007.36=2007.36,
+				s2106_CH_20_1996.01=1996.01,
+				s2107_CH_20_1995.83=1995.83,
+				s2049_CH_20_1997.71=1997.71,
+				s1167_CH_10_2009.16=2009.16,
+				s2174_CH_20_1997.27=1997.27,
+				s430_CH_10_1995.95=1995.95,
+				s730_CH_10_2002.02=2002.02,
+				s1495_CH_10_2004.19=2004.19,
+				s728_CH_10_2000.08=2000.08,
+				s2208_CH_20_2000.09=2000.09,
+				s2159_CH_20_1996.85=1996.85,
+				s4418_CH_10_2013.56=2013.56,
+				s379_CH_10_1996.44=1996.44,
+				s665_CH_10_1999.01=1999.01,
+				s968_CH_10_2007.1=2007.1,
+				s1486_CH_10_2004.11=2004.11,
+				s366_CH_10_1996.22=1996.22,
+				s860_CH_10_2002.3=2002.3,
+				s780_CH_10_2000.55=2000.55,
+				s165_CH_10_2011.3=2011.3,
+				s67_CH_10_1998.63=1998.63,
+				s2458_CH_30_1994.97=1994.97,
+				s184_CH_10_2005.93=2005.93,
+				s2579_CH_30_1998.38=1998.38,
+				s2525_CH_30_2002.92=2002.92,
+				s617_CH_10_1997.46=1997.46,
+				s2156_CH_20_1996.75=1996.75,
+				s361_CH_10_1997.05=1997.05,
+				s2055_CH_20_1997.27=1997.27,
+				s2197_CH_20_1999.52=1999.52                
+				<taxa id="TaxonSet.SHC" spec="TaxonSet">
+                    <data
+						idref="SHC"
+						name="alignment"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.SHC"/>
+        </tree>
+        <parameter id="gammaShape.s:SHC" name="stateNode">0.57</parameter>
+        <parameter id="proportionInvariant.s:SHC" lower="0.0" name="stateNode" upper="1.0">0.48</parameter>
+        <parameter id="rateAC.s:SHC" lower="0.0" name="stateNode">0.229</parameter>
+        <parameter id="rateAG.s:SHC" lower="0.0" name="stateNode">1.116</parameter>
+        <parameter id="rateAT.s:SHC" lower="0.0" name="stateNode">0.09</parameter>
+        <parameter id="rateCG.s:SHC" lower="0.0" name="stateNode">0.143</parameter>
+        <parameter id="rateGT.s:SHC" lower="0.0" name="stateNode">0.114</parameter>
+        <parameter dimension="4" id="freqParameter.s:SHC" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+        <parameter id="clockRate.c:SHC" name="stateNode">0.001488</parameter>
+        
+        <!-- My epi/network params -->
+    	<parameter id="epi.timeStep" name="stateNode">0.1</parameter>
+        <parameter id="epi.popN" lower="0.0" name="stateNode" upper="Infinity">250</parameter>
+        <parameter id="epi.beta" lower="0.0" name="stateNode" upper="Infinity">0.25</parameter>
+        <parameter id="epi.nu" lower="0.0" name="stateNode" upper="Infinity">0.1026</parameter>
+        <parameter id="epi.R0" lower="0.0" name="stateNode" upper="Infinity">1.5</parameter>
+        <parameter id="epi.origin" lower="0.0" name="stateNode" upper="41.0">41.0</parameter>
+        
+        
+    </state>
+	
+    <!-- From an input tree -->
+    <init spec='beast.util.TreeParser' id="StartingTree.t:SHC" initial="@Tree.t:SHC" IsLabelledNewick="true" adjustTipHeights="false" trait="dateTrait.t:SHC">
+       <input name='newick'>
+			((((((s734_CH_10_1997.26:10.164168083087723,s384_CH_10_2002.5:15.404168083087733):0.5890302187546261,(s68_CH_10_1995.72:6.40440765001091,(s17_CH_10_1995.83:4.572777979368713,s538_CH_10_1996.83:5.572777979368713):1.9416296706420972):2.808790651831476):4.8325741078548,s2041_CH_20_1996.02:14.34577240969714):4.020358407288782,((((s2499_CH_30_1999.27:3.224962270812597,s2558_CH_30_1996.86:0.814962270812515):12.371482615915845,s80_CH_10_1995.95:12.276444886728505):3.118289675756415,(s227_CH_10_1996.12:14.813442603306001,(((((((s479_CH_10_1995.92:4.565232150797172,((s832_CH_10_2006.75:8.303515729683738,s1292_CH_10_2006.1:7.653515729683647):1.4546299309572497,(s711_CH_10_2000.43:1.7894955694823516,s2291_CH_20_2005.37:6.729495569482179):1.6486500911587):5.637086490156111):5.022180729395579,s345_CH_10_2001.35:15.017412880192587):3.9532503280198164,((s467_CH_10_1996.52:11.27754248051896,(s2099_CH_20_1996.01:9.397781807697957,(s2613_CH_30_1999.16:8.767860175463227,(s2056_CH_20_1998.42:4.13094960303966,s2194_CH_20_1999.41:5.120949603039669):3.8969105724235575):3.779921632234821):1.3697606728210125):2.7047135836168827,(s2081_CH_20_1995.22:10.690402728562255,(((s2080_CH_20_1996.24:2.55755073874424,s2101_CH_20_1997.04:3.3575507387441945):8.608877663754544,((s2073_CH_20_1997.25:10.571045522248877,(s1683_CH_10_2007.36:20.295996517425166,s2107_CH_20_1995.83:8.765996517425194):0.3850490048236104):0.31818418132728965,s2106_CH_20_1996.01:9.649229703576157):1.2871986989226087):0.2575176524325613,(s2049_CH_20_1997.71:10.44791450373808,(((s1167_CH_10_2009.16:14.868885265083385,s2174_CH_20_1997.27:2.978885265083285):2.2691126777859125,s2159_CH_20_1996.85:4.827997942869125):0.6604560738394376,(s430_CH_10_1995.95:2.955353038550882,(s730_CH_10_2002.02:5.162907849858939,(s1495_CH_10_2004.19:4.706031867793529,(s728_CH_10_2000.08:0.13202121641160858,s2208_CH_20_2000.09:0.14202121641159948):0.464010651381793):2.6268759820654832):3.862445188691879):1.6331009781578167):4.09946048702939):2.4460315511932933):0.2864566736308909):1.9918533355736336):0.1584071440766337):0.021819515434160053,s2043_CH_20_1995.72:13.362482723646682):0.3212494638418555,(s2487_CH_30_2010.38:28.007533058958337,(((s1713_CH_10_2008.37:5.117704955573034,((s1027_CH_10_2006.81:0.8342425905985396,s1970_CH_10_2011.51:5.534242590598585):2.655266212652772,(s1306_CH_10_2005.03:1.1306950087103669,(s1768_CH_10_2009.36:2.1693913782357033,s1793_CH_10_2009.33:2.1393913782357306):3.291303630474591):0.5788137945409719):0.06819615232177689):3.1423419377016497,((s1461_CH_10_2003.95:0.3634200240399714,s1597_CH_10_2007.46:3.8734200240399623):2.0297033530170125,s4328_CH_10_2011.78:10.223123377056911):1.4469235162178542):16.29097645846989,(s2456_CH_30_1996.17:6.931557739782846,s2047_CH_20_1995.96:6.72155773978281):5.419465611961908):1.446509707213547):0.3361991285302821):0.1794028609852063,(((((s2579_CH_30_1998.38:6.241307104425296,s617_CH_10_1997.46:5.321307104425223):0.4072808100100964,s2525_CH_30_2002.92:11.188587914435356):1.0383409487296795,(s2055_CH_20_1997.27:4.819083235360836,s2197_CH_20_1999.52:7.069083235360836):1.7578456278041088):3.8586216112537493,s2156_CH_20_1996.75:9.915550474418712):0.4882675467112172,s361_CH_10_1997.05:10.703818021129884):4.4893170273437875):0.11972410293784463,((((s2137_CH_20_1995.78:9.39753982305205,(s2270_CH_20_2005.08:16.40002710373123,(s2136_CH_20_1995.61:2.1626854443575922,s2151_CH_20_1997.25:3.8026854443576923):4.76734165937361):2.2975127193207747):4.032681632710741,s86_CH_10_1997.41:15.0602214557629):0.08680558341420763,((s2190_CH_20_1997.5:11.722436070680427,(s3_CH_10_1995.78:5.073057502001504,s717_CH_10_1998.87:8.163057502001422):4.929378568678896):2.4742515084400445,(s244_CH_10_1996.64:8.702922488273181,s463_CH_10_1995.9:7.962922488273172):4.63376509084739):1.040339460056554):0.30139919686329364,(((s2163_CH_20_1997.3:13.398420093086713,(s209_CH_10_2003.86:16.789330590437828,s2113_CH_20_2001.56:14.489330590437874):3.1690895026488306):1.5872400525117456,s2168_CH_20_1997.1:14.785660145598413):0.3023037526201584,(((s634_CH_10_2001.91:8.948495925596038,(((s2261_CH_20_2004.61:2.7245350348374036,s2386_CH_20_2007.21:5.32453503483754):0.5539834054673918,((s1160_CH_10_2009.76:0.4769655228352061,s4360_CH_10_2009.82:0.5369655228351515):7.623029736506243,(s1133_CH_10_2010.45:7.311865599664582,s1849_CH_10_2010.4:7.2618655996646275):1.478129659676922):0.3285231809634368):0.8190197117871598,((s1651_CH_10_2007.84:4.8145372355555605,s1502_CH_10_2004.67:1.644537235555715):0.7545828248530029,((s1736_CH_10_2008.69:4.979628071503193,((s1843_CH_10_2010.19:5.188104790773176,s1023_CH_10_2006.68:1.678104790773185):0.4208458022437238,s1155_CH_10_2009.65:5.068950593016936):0.870677478486293):0.30609193384510647,(s1556_CH_10_2006.34:2.141661790497956,s1543_CH_10_2005.79:1.5916617904980015):0.7940582148502067):1.1334000550604006):1.75841809168341):7.550957773503901):6.130638058318734,(s2096_CH_20_1999.32:4.2114340005239015,s2181_CH_20_1997.36:2.251434000523865):8.277699983390725):4.650709892556883,s2253_CH_20_2004.3:22.119843876471528):0.1681200217470895):0.05046233782165643):0.2244329153712421):0.43058345189454883):0.751291959178765):1.6401813648190853,(((((s1763_CH_10_2003.68:16.549472204119315,s165_CH_10_2011.3:24.169472204119206):0.27156650746370303,s184_CH_10_2005.93:19.071038711583018):5.448906169792377,(((s4418_CH_10_2013.56:21.544493735718216,(s379_CH_10_1996.44:3.325548828028815,(s665_CH_10_1999.01:2.4453744776085244,(s968_CH_10_2007.1:7.253960097233842,s1486_CH_10_2004.11:4.2639600972338325):3.281414380374601):3.4501743504202267):1.0989449076895106):6.803687756724109,(s366_CH_10_1996.22:2.0804579375535504,s860_CH_10_2002.3:8.160457937553478):8.927723554888857):1.3155180044676165,s780_CH_10_2000.55:16.65369949690995):2.4862453844653345):0.20354381994872028,s67_CH_10_1998.63:17.42348870132416):1.2773472873869949,(s1148_CH_10_2009.42:27.06820322724369,s2458_CH_30_1994.97:12.618203227243644):2.4226327614674297):1.0140799385929142):1.2612148896819804):3.457636589949246,(((((((s444_CH_10_1996.12:1.8804198324690446,s1441_CH_10_2002.57:8.33041983246909):7.32916018637345,s2490_CH_30_1996.5:9.589580018842604):1.8599933401824913,s2531_CH_30_1997.81:12.75957335902504):3.080096106738747,((s2567_CH_30_1996.28:5.513746250999848,s2475_CH_30_1995.1:4.333746250999784):8.610116737962151,s2575_CH_30_1996.83:14.673862988961954):0.18580647680181528):0.18078558173282389,(s800_CH_10_2002.12:19.41945934753325,(s107_CH_10_1995.85:10.521104945757788,(((s359_CH_10_1996.89:4.6345972765850725,(s110_CH_10_1997.59:2.42837860318701,s544_CH_10_1997.21:2.0483786031871283):2.9062186733978805):3.6654311637128636,(s426_CH_10_1996.21:0.49190151609136024,(s973_CH_10_2006.62:5.677490432841868,s1585_CH_10_2007.23:6.287490432841995):5.224411083249347):7.128126924206512):1.2671711261046958,s245_CH_10_1998.2:10.877199566402577):1.993905379355347):2.628354401775482):0.9109956999633049):0.23434793776231544,(s2524_CH_30_1994.92:10.193799752977842,(s2179_CH_20_2003.32:6.942718345360788,s2574_CH_30_1998.72:2.342718345360879):11.651081407616918):3.171003232281212):2.568267688337336,(((((s629_CH_10_1998.15:11.66432627134099,(((s278_CH_10_1996.07:4.383840367475983,s2477_CH_30_1995.21:3.523840367476083):3.0126062700836727,s550_CH_10_1998.42:9.746446637559792):1.8499779781067645,((s335_CH_10_1995.53:0.4084292031959329,s459_CH_10_1996.63:1.5084292031960693):1.8581611743724338,(s1728_CH_10_2008.58:1.262816335853004,s1773_CH_10_2009.03:1.7128163358530495):14.053774041715318):6.43983423809809):0.33790165567441477):1.355502528189163,s181_CH_10_1996.04:10.909828799530025):2.8205513189423073,(s2457_CH_30_1998.07:14.755355475261446,((s144_CH_10_1996.02:9.349938204877066,s103_CH_10_1996.16:9.489938204877166):0.6550333482446682,s208_CH_10_1996.5:10.484971553121753):2.700383922139757):1.0050246432108594):0.4334508440736897,s510_CH_10_1996.03:14.153830962546031):0.47878407482232177,((((((s365_CH_10_1997.14:11.25886056302297,s707_CH_10_2000.2:14.318860563022916):0.8488098828498032,((s560_CH_10_2006.04:19.336361751643864,(((((s252_CH_10_1996.03:4.032366302299614,((((((s1547_CH_10_2005.84:0.70633265170345,s1569_CH_10_2005.57:0.43633265170346824):2.700288625172183,s1470_CH_10_2004.32:1.8866212768756512):0.9615467822121868,(s893_CH_10_2004.31:1.5338156686309379,s758_CH_10_2006.07:3.293815668630929):1.3043523904569092):1.133499764127036,(s1052_CH_10_2007.93:1.8012639926773364,s1122_CH_10_2007.9:1.7712639926773637):5.790403830537665):0.33077758152855985,s1311_CH_10_2005.38:5.3724454047436065):6.4172963181101235,(s1870_CH_10_2009.97:8.991004529094695,((s1755_CH_10_2008.94:0.05437591217050386,(s4320_CH_10_2012.16:1.0308788593913825,s4321_CH_10_2012.19:1.0608788593913552):2.2434970527791487):5.5565753327309855,(s358_CH_10_2005.58:0.8927543200351611,s1791_CH_10_2008.88:4.192754320035343):1.358196924866201):2.3500532841932333):7.388737193758953):1.5926245794460208):0.4651524100927311,(s2690_CH_30_2005.66:6.314075015381842,s2718_CH_30_2007.42:8.074075015381833):7.813443697010612):4.117372513496072,s654_CH_10_1998.42:11.004891225888517):0.28892862100816075,s136_CH_10_1997.02:9.893819846896587):0.11849945673625939,s2534_CH_30_1996.33:9.322319303632792):0.3040424480110353):1.3766226158844859,s221_CH_10_1996.41:11.082984367528468):0.29468607834428795):0.8548350808739897,(s519_CH_10_1996.22:8.373599209769367,s460_CH_10_2002.91:15.063599209769421):3.668906316977324):1.824697696702188,((s1424_CH_10_2004.23:18.82429658203567,((((s4354_CH_10_2013.9:19.318874979612985,s474_CH_10_1995.6:1.0188749796128036):2.4336511908158585,(s408_CH_10_1995.68:1.5606434252550443,s551_CH_10_1997.61:3.4906434252548806):1.9718827451737724):2.187099410236989,((s1254_CH_10_1999.82:0.48591280927180414,s1505_CH_10_2004.87:5.535912809271759):6.5225333496488656,(s1253_CH_10_1999.8:5.586363631026231,s1404_CH_10_2002.35:8.136363631026185):1.402082527894457):2.851179421745009):2.782004716746922,s154_CH_10_2000.41:13.231630297412746):1.7726662846229893):0.6503003320324403,(s249_CH_10_2005.2:18.67719214749985,((s2512_CH_30_1994.92:0.7758247391485895,s2789_CH_30_2011.91:17.7658247391486):6.986962497567909,((s38_CH_10_1996.81:3.3378496227295713,s749_CH_10_1997.92:4.447849622729699):4.410471620202166,(s297_CH_10_1995.79:6.121143041783231,(s2566_CH_30_2003.09:11.936360117513349,((((s775_CH_10_2004.07:0.060577127959488664,s4269_CH_10_2010.64:6.630577127959652):3.842293953803461,s1771_CH_10_2007.62:7.452871081762904):0.3522138464007174,s1379_CH_10_2002.65:2.8350849281638215):4.729100255269886,(s703_CH_10_1999.84:2.0968447797813674,(s1321_CH_10_2001.2:1.1941916735989988,s1343_CH_10_2000.87:0.8641916735988442):2.262653106182496):2.6573404036521673):3.932174934079814):1.4847829242698367):0.6071782011485247):1.9044659937846333):0.6344049107833776):1.7674047665682906):2.402606309380758):0.022412663854687764,((s342_CH_10_1996.56:3.3008878598529385,s1227_CH_10_1998.65:5.390887859853084):4.511180105779335,s2481_CH_30_1996.16:7.41206796563241):6.417547921671211):0.19918800052268892,((s222_CH_10_1997.79:4.114994999821988,s394_CH_10_1995.51:1.8349949998220154):0.5260221666591782,s316_CH_10_1995.61:2.4610171664811027):11.017786721345026):0.7338111495421522):2.410455636227937):4.790696733338869):0.9652746800811229,((s2474_CH_30_1996.23:10.067159891521534,((((s2218_CH_20_2004.47:8.548043828003028,s2217_CH_20_2009.13:13.20804382800311):4.918621666962203,s2509_CH_30_1994.93:3.926665494965267):4.639202790169527,(s2590_CH_30_1997.95:6.4503189658230475,s2602_CH_30_1998.3:6.800318965822957):5.135549319311728):0.10328934184139271,s2199_CH_20_2004.78:18.519157626976096):0.09800226454539285):4.602878649298582,s2671_CH_30_2004.65:23.09003854082019):8.329003546196212);
+       </input>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+    
+    	<!-- Random mixing SIR coalescent prior -->
+        <distribution id="coalescent" spec="StructCoalVolzDensityRandMixing" approxLambdaSum="true" ghostLineCorrection="false" minIkIl="0.01" tipStates="false" fixOriginAtRoot="false">
+            <structuredTreeIntervals spec='StructuredTreeIntervals' id='TreeIntervals' tree='@Tree.t:SHC'/>
+            <epiModel spec="EpiModel" id="SIR" maxDegree="1"  isSeasonal="false" isConstant="false" isSIR="true" estimateR0="true">
+                
+                <R0 idref="epi.R0"/>
+                <popN idref="epi.popN"/>
+                <beta idref="epi.beta"/>
+                <nu idref="epi.nu"/>
+                
+                <origin idref="epi.origin"/>
+                <timeStep idref="epi.timeStep"/>
+                
+            </epiModel>
+        </distribution>
+        
+        <!-- My epi priors -->
+        <distribution spec='CompoundDistribution' id='epiParameterPriors'>
+        
+			<distribution spec='beast.math.distributions.Prior' x="@epi.popN">
+	            <distr spec="beast.math.distributions.Uniform"  lower="200" upper="1000"/>
+	        </distribution>
+	        
+	      	<distribution spec='beast.math.distributions.Prior' x="@epi.nu">
+	      		<distr spec="beast.math.distributions.LogNormalDistributionModel"  M="-2.28" S="0.1"/>
+	      	</distribution>
+	        
+	        <!--         
+          	<distribution spec='beast.math.distributions.Prior' x="@epi.tau">
+	            <distr spec="beast.math.distributions.LogNormalDistributionModel"  M="-1.39" S="0.2"/>
+	        </distribution> -->
+	        
+	        <distribution spec='beast.math.distributions.Prior' x="@epi.R0">
+	            <distr spec="beast.math.distributions.LogNormalDistributionModel"  M="0.4055" S="0.15"/>
+	        </distribution>
+	        
+
+    	</distribution>
+        
+        <!-- Need these inside another distribution element ??? -->
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <!-- Subst model params -->
+            <prior id="ClockPrior.c:SHC" name="distribution" x="@clockRate.c:SHC">
+                <Uniform id="Uniform.0" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="GammaShapePrior.s:SHC" name="distribution" x="@gammaShape.s:SHC">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="RateACPrior.s:SHC" name="distribution" x="@rateAC.s:SHC">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.01" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.02" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateAGPrior.s:SHC" name="distribution" x="@rateAG.s:SHC">
+                <Gamma id="Gamma.01" name="distr">
+                    <parameter id="RealParameter.03" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.04" lower="0.0" name="beta" upper="0.0">20.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateATPrior.s:SHC" name="distribution" x="@rateAT.s:SHC">
+                <Gamma id="Gamma.02" name="distr">
+                    <parameter id="RealParameter.05" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.06" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateCGPrior.s:SHC" name="distribution" x="@rateCG.s:SHC">
+                <Gamma id="Gamma.03" name="distr">
+                    <parameter id="RealParameter.07" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.08" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="RateGTPrior.s:SHC" name="distribution" x="@rateGT.s:SHC">
+                <Gamma id="Gamma.04" name="distr">
+                    <parameter id="RealParameter.09" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.010" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+        </distribution>
+        
+        <distribution id="likelihood" spec="util.CompoundDistribution">
+            <distribution data="@SHC" id="treeLikelihood.SHC" spec="TreeLikelihood" tree="@Tree.t:SHC">
+                <siteModel gammaCategoryCount="4" id="SiteModel.s:SHC" proportionInvariant="@proportionInvariant.s:SHC" shape="@gammaShape.s:SHC" spec="SiteModel">
+                    <parameter estimate="false" id="mutationRate.s:SHC" name="mutationRate">1.0</parameter>
+                    <substModel id="gtr.s:SHC" rateAC="@rateAC.s:SHC" rateAG="@rateAG.s:SHC" rateAT="@rateAT.s:SHC" rateCG="@rateCG.s:SHC" rateGT="@rateGT.s:SHC" spec="GTR">
+                        <parameter estimate="false" id="rateCT.s:SHC" lower="0.0" name="rateCT">1.0</parameter>
+                        <frequencies frequencies="@freqParameter.s:SHC" id="estimatedFreqs.s:SHC" spec="Frequencies"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel clock.rate="@clockRate.c:SHC" id="StrictClock.c:SHC" spec="beast.evolution.branchratemodel.StrictClockModel"/>
+            </distribution>
+        </distribution>
+        
+    </distribution>
+	
+	<!--
+    <operator id="treeScaler.t:SHC" scaleFactor="0.5" spec="ScaleOperator" tree="@Tree.t:SHC" weight="3.0"/>
+
+    <operator id="treeRootScaler.t:SHC" rootOnly="true" scaleFactor="0.5" spec="ScaleOperator" tree="@Tree.t:SHC" weight="3.0"/>
+
+    <operator id="UniformOperator.t:SHC" spec="Uniform" tree="@Tree.t:SHC" weight="30.0"/>
+
+    <operator id="SubtreeSlide.t:SHC" spec="SubtreeSlide" tree="@Tree.t:SHC" weight="15.0"/>
+
+    <operator id="narrow.t:SHC" spec="Exchange" tree="@Tree.t:SHC" weight="15.0"/>
+
+    <operator id="wide.t:SHC" isNarrow="false" spec="Exchange" tree="@Tree.t:SHC" weight="3.0"/>
+
+    <operator id="WilsonBalding.t:SHC" spec="WilsonBalding" tree="@Tree.t:SHC" weight="3.0"/>
+
+    <operator id="gammaShapeScaler.s:SHC" parameter="@gammaShape.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="proportionInvariantScaler.s:SHC" parameter="@proportionInvariant.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="RateACScaler.s:SHC" parameter="@rateAC.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="RateAGScaler.s:SHC" parameter="@rateAG.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="RateATScaler.s:SHC" parameter="@rateAT.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="RateCGScaler.s:SHC" parameter="@rateCG.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator id="RateGTScaler.s:SHC" parameter="@rateGT.s:SHC" scaleFactor="0.5" spec="ScaleOperator" weight="0.1"/>
+
+    <operator delta="0.01" id="FrequenciesExchanger.s:SHC" spec="DeltaExchangeOperator" weight="0.1">
+        <parameter idref="freqParameter.s:SHC"/>
+    </operator>
+
+    <operator id="StrictClockRateScaler.c:SHC" parameter="@clockRate.c:SHC" scaleFactor="0.75" spec="ScaleOperator" weight="3.0"/>
+
+    <operator id="strictClockUpDownOperator.c:SHC" scaleFactor="0.75" spec="UpDownOperator" weight="3.0">
+        <parameter idref="clockRate.c:SHC" name="up"/>
+        <tree idref="Tree.t:SHC" name="down"/>
+    </operator>
+    
+    -->
+    
+    <!-- Epi/network operators -->
+   
+  <operator id='upDownPopNR0Op' spec='UpDownOperator' scaleFactor="0.95" weight="4" optimise="true">
+         <up idref="epi.R0"/>
+         <down idref="epi.popN"/>
+  </operator>
+   
+  <operator id="R0Op" spec="ScaleOperator" scaleFactor=".95" weight="2" optimise="true" parameter="@epi.R0"/>
+  
+  <operator id="nuOp" spec="ScaleOperator" scaleFactor=".95" weight="2" optimise="true" parameter="@epi.nu"/>
+  
+  <operator id="popNOp" spec="ScaleOperator" scaleFactor=".95" weight="4" optimise="true" parameter="@epi.popN"/>
+  
+ <!--  
+  <operator id='upDownR0Op' spec='UpDownOperator' scaleFactor="0.95" weight="8" optimise="true">
+         <up idref="epi.R0"/>
+         <up idref="epi.varK"/>
+         <down idref="epi.meanK"/>
+  </operator>
+  -->
+
+    <logger fileName="SHC_MSM_pol_CH_subEpiTree_581_randMixing.log" id="tracelog" logEvery="100" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="epiParameterPriors"/>
+        <log idref="coalescent"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.SHC"/>
+        <log id="TreeHeight.t:SHC" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:SHC"/>
+        <parameter idref="clockRate.c:SHC" name="log"/>
+        <parameter idref="gammaShape.s:SHC" name="log"/>
+        <parameter idref="proportionInvariant.s:SHC" name="log"/>
+        <parameter idref="rateAC.s:SHC" name="log"/>
+        <parameter idref="rateAG.s:SHC" name="log"/>
+        <parameter idref="rateAT.s:SHC" name="log"/>
+        <parameter idref="rateCG.s:SHC" name="log"/>
+        <parameter idref="rateGT.s:SHC" name="log"/>
+        <parameter idref="freqParameter.s:SHC" name="log"/>
+      	
+      	<log idref="epi.R0"/>
+      	<log idref="epi.nu"/>
+      	<log idref="epi.popN"/>
+      	<!-- <log idref="SIR"/> -->
+    </logger>
+
+    <logger id="screenlog" logEvery="100">
+        <log idref="posterior"/>
+        <log arg="@posterior" id="ESS.0" spec="util.ESS"/>
+        <log idref="likelihood"/>
+        <log idref="epiParameterPriors"/>
+        <log idref="coalescent"/>
+        <log idref="prior"/>
+    	
+    	<log idref="epi.R0"/>
+      	<log idref="epi.nu"/>
+      	<log idref="epi.popN"/>
+      	<log idref="SIR"/>
+        
+    </logger>
+
+  	<logger id="trajectLogger" fileName="SHC_MSM_pol_CH_subEpiTree_581_randMix_stateTrajs.csv" logEvery="100">
+		<log id="sirTrajLog" spec="SIRTrajectoryLoggerRandMixing" epiModel="@SIR" printEvery="10.0"/>
+  	</logger>
+
+</run>
+
+</beast>

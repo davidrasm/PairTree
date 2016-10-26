@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.phylodynamics.epidemiology:beast.phylodynamics.logger:beast.phylodynamics.model:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" version="2.0">
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+<tree spec="beast.util.TreeParser" id="tree" IsLabelledNewick="true" adjustTipHeights="false" trait="traitset" newick="((((6-8_35:28.9448,(((6-27_25.408:17.5407,2-87_15.0878:7.2205):0.97329,((6-89_15.0523:7.3751,7-102_14.2369:6.5597):0.3418,4-83_15.2505:7.9151):0.44142):0.050024,(5-79_15.6419:8.5269,4-19_29.0418:21.9269):0.27102):0.78877):4.6422,(2-61_18.5479:16.9471,(((((((9-90_14.7328:5.7987,(3-98_14.429:4.9412,3-58_19.3015:9.8137):0.55371):3.1627,3-81_15.4893:9.7179):0.23218,2-128_11.0532:5.514):1.1363,2-24_27.2624:22.8594):1.265,((4-29_25.0411:19.6455,((((11-121_11.6661:2.9321,3-151_8.8075:0.073526):0.8487,4-131_10.8128:2.9276):1.5408,(((7-116_11.9973:3.4859,(6-68_17.5871:7.212,4-55_19.5484:9.1733):1.8638):0.26475,4-148_9.5562:1.3096):0.21447,(3-67_17.8478:9.7315,(6-48_19.9587:11.0592,5-40_22.3355:13.436):0.78318):0.084221):1.6877):0.91237,2-114_12.035:6.603):0.036479):1.673,(5-144_10.1744:1.0051,3-110_13.5863:4.417):5.4468):0.58462):0.2518,((6-59_19.1891:15.7742,(((((11-104_13.9451:4.4216,(5-92_14.6634:4.7015,(6-6_35:24.8329,4-65_18.1709:8.0039):0.20514):0.43837):3.4139,((8-145_10.1512:3.6075,(5-137_10.5621:3.3716,(4-46_20.2903:12.7416,(5-82_15.4372:7.6614,8-152_8.7105:0.93461):0.22715):0.35822):0.64679):0.29506,(3-77_15.6663:8.1656,4-136_10.5782:3.0775):1.2521):0.13894):1.6666,3-158_8.2886:3.8455):0.66312,(((((6-11_35:29.9362,((6-80_15.5297:6.9104,4-13_32.3206:23.7013):2.3534,(6-120_11.7979:2.4963,2-39_22.7904:13.4888):3.0357):1.2021):0.33849,((((6-49_19.9384:13.7015,5-176_6.3678:0.1309):0.38368,((5-133_10.6525:0.40384,2-95_14.4769:4.2282):4.0301,6-143_10.2012:3.9826):0.36541):0.37558,3-124_11.4637:5.9861):0.25638,2-180_5.7469:0.52562):0.4959):0.31232,(((9-52_19.6563:8.2692,(3-30_24.8935:5.6537,2-12_33.8346:14.5948):7.8527):5.1171,3-111_13.3864:7.1165):0.33151,(((6-129_10.8739:0.32997,4-119_11.7991:1.2552):1.5412,6-86_15.1341:6.1314):2.5217,6-85_15.1883:8.7072):0.54266):1.5254):0.004771,(5-172_6.5465:1.0666,((4-178_6.1022:0.29684,5-142_10.2177:4.4123):0.15231,((5-164_7.3037:0.46506,1-132_10.8012:3.9626):1.0769,5-134_10.6421:4.8804):0.10865):0.1732):1.0716):0.53756,4-179_5.8887:2.018):0.090704):0.3188,((5-169_6.9476:1.3563,(4-78_15.6425:8.1007,6-25_26.84:19.2982):1.9505):0.9102,(3-34_23.7367:15.7429,3-1_35:27.0062):3.3127):1.2199):0.04626):0.1502,(4-182_4.9186:0.52978,(((5-41_21.9129:13.4333,6-16_31.7461:23.2665):3.3647,4-70_17.4875:12.3725):0.28662,((4-123_11.5299:5.2419,(4-141_10.3389:3.8772,7-173_6.5041:0.042429):0.1737):0.040465,3-32_24.5125:18.265):1.4192):0.43947):1.1241):0.3786):0.50808,(5-130_10.8296:7.9818,(5-84_15.1974:10.17,(4-171_6.6455:1.4991,2-170_6.8185:1.6721):0.11907):2.1796):0.46971):0.77729):0.18774):0.52007,((8-183_3.2447:0.6929,(((4-5_35:28.3641,(6-138_10.5022:2.3384,2-135_10.5788:2.4149):1.528):2.1154,(((6-99_14.3539:7.992,4-163_7.3223:0.96038):0.40667,(6-9_35:23.3463,6-103_14.074:2.4202):5.6985):0.74758,(((5-88_15.0748:7.0197,4-74_16.5484:8.4933):1.7527,2-38_23.0721:16.7697):1.0731,2-44_20.8331:15.6038):0.021718):0.6871):1.5519,(((((7-43_21.1869:13.913,(6-125_11.2298:2.4487,4-51_19.8579:11.0768):1.5071):1.2315,(((6-105_13.9333:6.0687,7-7_35:27.1353):1.1918,((5-127_11.0542:2.066,5-72_17.1974:8.2092):2.202,5-26_25.5683:18.7821):0.11327):0.1684,5-18_31.0042:24.4997):0.46203):1.3457,(5-42_21.4962:14.3118,4-115_12.0116:4.8272):2.4876):0.51959,((4-126_11.0616:0.82963,(6-66_18.0064:6.7349,3-75_16.3377:5.0662):1.0395):3.9879,(6-3_35:27.5937,7-106_13.8708:6.4644):1.1624):2.0668):0.43713,((((((11-160_8.1775:2.0973,2-167_7.0348:0.95465):1.0061,6-76_16.2253:11.1513):0.25092,(7-107_13.8651:8.8149,(5-45_20.3758:14.5418,(7-53_19.6102:12.8725,4-62_18.502:11.7643):0.90374):0.78367):0.22717):0.71018,((6-157_8.3655:1.595,((6-56_19.5278:4.0068,(3-60_19.0345:2.1086,3-2_35:18.0741):1.405):8.141,(5-94_14.54:7.1581,4-69_17.5625:10.1807):0.0018488):0.60948):2.2757,((5-21_28.2509:21.7006,4-97_14.433:7.8827):1.9978,(3-177_6.2853:1.6298,((3-10_35:29.0967,(7-175_6.4804:0.13899,2-174_6.4996:0.15817):0.43813):0.98541,((3-165_7.2661:1.6027,((2-71_17.4443:11.2872,2-168_6.9482:0.79114):0.20442,(5-57_19.4908:13.4625,(6-100_14.2907:7.5265,3-150_8.8366:2.0724):0.73587):0.075667):0.28924):0.59702,3-47_20.2891:15.2227):0.1485):0.26232):0.10304):0.057712):0.38191):0.027365,((5-91_14.7126:7.9087,(((7-36_23.2744:13.9914,4-15_31.7773:22.4943):1.2696,2-96_14.4579:6.4444):0.34994,(4-108_13.8273:2.162,3-14_31.8752:20.2099):4.0018):0.8596):0.52108,(7-153_8.6917:2.1839,((9-146_9.686:1.5408,2-23_27.4138:19.2686):0.59046,2-159_8.2146:0.65982):1.0469):0.22506):2.1973):0.1242,((9-28_25.3058:19.9265,4-181_5.7111:0.33173):0.60664,(6-63_18.4784:11.6291,4-118_11.9356:5.0863):2.0766):0.81135):0.22133):0.7714):0.41682):0.97638,(3-155_8.5818:5.9655,(6-20_29.0083:22.6512,4-156_8.5315:2.1744):3.7408):1.0409):0.68247):0.6839,((4-37_23.2059:16.3782,8-17_31.4597:24.632):2.5668,((((8-93_14.6015:7.7302,3-147_9.6428:2.7715):0.30007,3-22_27.6348:21.0636):0.46628,((5-64_18.2897:11.2727,3-112_12.3364:5.3194):0.82231,(3-113_12.2042:5.8557,(7-162_7.5202:0.61993,3-4_35:28.0998):0.55169):0.15381):0.089798):1.6584,((((9-166_7.195:0.41745,3-122_11.6574:4.8799):1.6802,(6-33_23.9368:16.7545,((7-139_10.4786:2.8355,(4-161_7.9707:0.32414,(5-50_19.9258:12.139,(4-35_23.7182:15.7852,4-101_14.2759:6.3429):0.1462):0.14026):0.0034608):0.22237,(5-109_13.6626:4.8781,3-73_16.608:7.8235):1.3638):0.23841):2.0849):0.12097,2-149_8.9792:4.0027):0.10391,(3-140_10.4084:4.9002,((9-54_19.5627:12.0006,4-117_11.9416:4.3795):1.3944,(5-31_24.5939:17.5728,3-154_8.6444:1.6234):0.85327):0.6596):0.63565):0.42602):0.18564):4.0518);"/>
+<run id="mcmc" spec="MCMC" chainLength="10000">
+    <state id="state" storeEvery="100">
+
+      <!-- STATE NODES-->
+		
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.origin" value="35.0"/>
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.dim" value="2"/>
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.timeStep" value="0.1"/>
+      
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.nodes" value="250"/> <!-- nodes -->
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.tau" value="0.25"/> <!-- transmission rate -->
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.nu" value="0.1026"/> <!-- removal rate -->
+      
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.R0" value="2.9287"/> <!-- net reproductive rate R0 -->
+       
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.meanK" value="4.0"/> <!-- mean of d_k -->
+      <stateNode spec="beast.core.parameter.RealParameter" id="epi.varK" value="2.0"/> <!-- mean of d_k -->
+      
+    </state>
+
+
+
+
+  <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+
+			<distribution spec='beast.math.distributions.Prior' x="@epi.nodes">
+	            <distr spec="beast.math.distributions.Uniform"  lower="200" upper="300"/>
+	        </distribution>
+	        
+	      	<distribution spec='beast.math.distributions.Prior' x="@epi.nu">
+	      		<distr spec="beast.math.distributions.LogNormalDistributionModel"  M="-2.28" S="0.1"/>
+	      	</distribution>
+			
+			<!--         
+          	<distribution spec='beast.math.distributions.Prior' x="@epi.tau">
+	            <distr spec="beast.math.distributions.LogNormalDistributionModel"  M="-1.39" S="0.2"/>
+	        </distribution> -->
+	        
+	        <distribution spec='beast.math.distributions.Prior' x="@epi.R0">
+	            <distr spec="beast.math.distributions.LogNormalDistributionModel"  M="0.24" S="1.0"/>
+	        </distribution>
+	        
+	        <!-- Other priors 
+	       	<distribution spec='beast.math.distributions.Prior' x="@epi.nu">
+	      		<distr spec="beast.math.distributions.Gamma"  alpha="5.0" beta="1.95"/>
+	      	</distribution> -->
+
+        </distribution>
+
+    	<distribution id="likelihood" spec="util.CompoundDistribution">
+
+
+            <!-- ARUDSIR VOLZ Likelihood-->
+            <distribution id="coalescent" spec="StructCoalNetDensity" approxLambdaSum="true" ghostLineCorrection="false" minIkIl="0.001" tipStates="false" fixOriginAtRoot="false">
+              <structuredTreeIntervals spec='StructuredTreeIntervals' id='TreeIntervals' tree='@tree'/>
+              <epiModel spec="PairwiseEpiModel" id="SIR" maxDegree="16" isSIR="true" estimateR0="true">
+                
+                <!-- Specify degree distribution -->
+                <degreeDist spec="GammaReparam" id="gammaDegreeDist">
+                	<mean idref="epi.meanK"/>
+                	<variance idref="epi.varK"/>
+                </degreeDist>
+                
+                <R0 idref="epi.R0"/>
+                <nodes idref="epi.nodes"/>
+                <tau idref="epi.tau"/>
+                <nu idref="epi.nu"/>
+                
+                <origin idref="epi.origin"/>
+                <timeStep idref="epi.timeStep"/>
+                
+              </epiModel>
+            </distribution>
+        </distribution>
+  
+    </distribution>
+
+  <!-- ARUDSIR Operators-->
+  
+	<!--   
+  <operator id="tauOp" spec="ScaleOperator" scaleFactor=".9" weight="2" optimise="true" parameter="@epi.tau"/>
+  <operator id="nuOp" spec="ScaleOperator" scaleFactor=".9" weight="2" optimise="true" parameter="@epi.nu"/> 
+  -->
+  
+
+  <operator id="meanKOp" spec="ScaleOperator" scaleFactor=".95" weight="2" optimise="true" parameter="@epi.meanK"/>
+  <operator id="varKOp" spec="ScaleOperator" scaleFactor=".95" weight="2" optimise="true" parameter="@epi.varK"/>
+  <operator id='upDownMeanVarOp' spec='UpDownOperator' scaleFactor="0.95" weight="6" optimise="true">
+         <up idref="epi.meanK"/>
+         <down idref="epi.varK"/>
+  </operator>
+  
+  <!--  
+  <operator id="R0Op" spec="ScaleOperator" scaleFactor=".9" weight="2" optimise="true" parameter="@epi.R0"/>
+  <operator id='upDownR0Op' spec='UpDownOperator' scaleFactor="0.9" weight="6" optimise="true">
+         <up idref="epi.meanK"/>
+         <up idref="epi.varK"/>
+         <down idref="epi.R0"/>
+  </operator> -->
+   
+    <logger id="tracelog" fileName="PairTreeTest_HIV_contHet_meanVar_simTree4.log" logEvery="10" model="@posterior" sanitiseHeaders="true" sort="smart">
+      <log idref="posterior"/>
+      <log idref="coalescent"/>
+      <log idref="prior"/>
+      <log idref="epi.R0"/>
+      <log idref="epi.nu"/>
+      <log idref="epi.meanK"/>
+      <log idref="epi.varK"/>
+      <log idref="SIR"/>
+    </logger>
+    <logger id="screenlog" logEvery="10">
+      <log idref="posterior"/>
+      <log idref="coalescent"/>
+      <log idref="prior"/>
+      <log idref="epi.R0"/>
+      <log idref="epi.nu"/>
+      <log idref="epi.meanK"/>
+      <log idref="epi.varK"/>
+      <log idref="SIR"/>
+    </logger>
+    <!--  
+  <logger id="probtreelog.t:MSABahlData4" fileName="Rate_1e3_Mb_symmetric_S3_100_100_arudsir.trees" logEvery="1000" mode="tree">
+    <log id="PropTreeWithMetaDataLogger.t:MSABahlData4" spec="StructuredTreeLogger" tree="@tree" volzDensity="@coalescent" maxState="false"/>
+  </logger> -->
+</run>
+</beast>
